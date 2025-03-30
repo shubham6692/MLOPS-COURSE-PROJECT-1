@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sneha/OneDrive/Desktop/Mar2025/MLOPS-PROJECT-1/mlruns/0/4730cf66f274412aaa0766833d234a65/artifacts
+end_time: 1742738829174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4730cf66f274412aaa0766833d234a65
+run_name: mercurial-elk-479
+run_uuid: 4730cf66f274412aaa0766833d234a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742738795674
+status: 3
+tags: []
+user_id: sneha
